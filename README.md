@@ -38,4 +38,4 @@
 
 # Видео
 
-*Ссылка на видео:*
+*Ссылка на видео:* https://disk.yandex.ru/i/yFKyLmnKATPcEQ
